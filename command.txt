@@ -4,3 +4,4 @@ git clone
 git fetch
 git logs
 git log --online --pretty
+git remote set-url origi <neweurl>
