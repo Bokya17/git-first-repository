@@ -3,3 +3,4 @@ git status
 git clone
 git fetch
 git logs
+git log --online --pretty
